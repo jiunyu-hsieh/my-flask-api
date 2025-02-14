@@ -1,0 +1,2 @@
+Flask
+mysql-connector-python  # 如果用了MySQL
